@@ -1,0 +1,2 @@
+Min depth: 3
+path to min depth: [1, 3, 6]
